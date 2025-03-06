@@ -48,3 +48,6 @@ Fe_type    Fe_index    O_index    Distance(A)    V_value(eV)
 - The script assumes periodic boundary conditions when calculating distances.
 - Ensure the input structure file follows the Quantum Espresso format.
 - Only the first 8 values from `Fe2_V.txt` and `Fe3_V.txt` are used for each Fe atom.
+
+## Example
+The inputs and results of an example run can be found in `example/`.
